@@ -1,5 +1,10 @@
 <h1 align = "center"> :fast_forward: Bulletproof Studio :rewind: </h1>
 
+## 🖥 Preview
+<p align = "center">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/bulletproof-studio/main/assets/img/read-me-img/bulletproof-print.png" width = "700">
+</p>
+
 ## 📖 About
 <p>Personal project recreating a SPA for a game development studio.</p>
 
