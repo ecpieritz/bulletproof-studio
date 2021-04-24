@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/ecpieritz/bulletproof-studio/main/assets/img/read-me-img/bulletproof-print.png" width = "700">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/bulletproof-studio/main/assets/img/read-me-img/bulletproof-print.png" width = "800">
 </p>
 
 ## 📖 About
