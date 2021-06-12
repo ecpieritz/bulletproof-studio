@@ -22,7 +22,7 @@
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/bulletproof-studio.git
+git clone https://github.com/ecpieritz/bulletproof-studio.git
 
 #### Enter directory
 `cd bulletproof-studio`
