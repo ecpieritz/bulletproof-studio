@@ -2,7 +2,9 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/ecpieritz/bulletproof-studio/main/assets/img/read-me-img/bulletproof-print.png" width = "801">
+  <img src = "https://github.com/ecpieritz/bulletproof-studio/blob/main/assets/img/read-me-img/bulletproof-print.png?raw=true" width = "700" height = "auto">
+  <img src = "https://github.com/ecpieritz/bulletproof-studio/blob/main/assets/img/read-me-img/bulletproof-print-2.jpg?raw=true" width = "350" height = "auto">
+  <img src = "https://github.com/ecpieritz/bulletproof-studio/blob/main/assets/img/read-me-img/bulletproof-print-3.jpg?raw=true" width = "350" height = "auto">
 </p>
 
 ## 📖 About
